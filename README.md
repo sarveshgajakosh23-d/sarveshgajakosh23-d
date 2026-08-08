@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **2nd-year B.Tech student in Artificial Intelligence & Machine Learning** at D.Y. Patil College of Engineering & Technology, Kolhapur. I spend most of my free time building small AI/ML and web projects and competing in hackathons across India — I've participated in **16+ hackathons** so far, including one semi-final finish.
+I'm a **3rd-year B.Tech student in Artificial Intelligence & Machine Learning** at D.Y. Patil College of Engineering & Technology, Kolhapur. I spend most of my free time building small AI/ML and web projects and competing in hackathons across India — I've participated in **16+ hackathons** so far, including one semi-final finish.
 
 - 🔭 Currently strengthening my fundamentals in **Machine Learning, Python, and Generative AI**
 - 🌱 Learning full-stack web development alongside my AI/ML coursework
