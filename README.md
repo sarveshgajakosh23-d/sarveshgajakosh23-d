@@ -33,13 +33,41 @@ I'm a **3rd-year B.Tech student in Artificial Intelligence & Machine Learning** 
 
 ---
 
+
 ### 🛠️ Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,git,github,vscode&theme=dark" />
-</div>
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
 
-**Currently learning / exploring:** Machine Learning · Deep Learning basics · Generative AI · Prompt Engineering · Google AI Studio
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**🌐 Web Development**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**🧰 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Currently learning / exploring:**
+Machine Learning · Deep Learning basics · Generative AI · Prompt Engineering · Google AI Studio
+
+</div>
 
 ---
 
